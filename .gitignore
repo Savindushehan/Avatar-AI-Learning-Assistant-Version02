@@ -45,3 +45,10 @@ venv/
 *.sublime-workspace
 
 
+# Ignore virtual environments anywhere
+**/venv/
+**/.venv/
+**/.env/
+
+
+
